@@ -49,7 +49,7 @@ export const config: TConfig = {
     p: ["I develop web apps,", "testing & docs"],
   },
   contact: {
-    p: "Get in touch",
+    p: "Get in touch!",
     h2: "Contact.",
     form: {
       name: {
