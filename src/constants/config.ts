@@ -1,3 +1,4 @@
+// Main configuration for the portfolio
 type TSection = {
   p: string;
   h2: string;
